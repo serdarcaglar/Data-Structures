@@ -1,0 +1,299 @@
+Hello world!
+----------------Month 1---------------
+Routes:
+Probia---> Logicheim, 3
+Probia---> Gulf of Archi, 7
+Probia---> Las Datas, 20
+Logicheim---> Probia, 3
+Signale---> Probia, 12
+Gulf of Archi---> Logicheim, 8
+
+Flights: 
+EE0103 
+EE0107 
+EE0118 
+EE0701 
+EE1501 
+EE1807 
+
+----------------Month 2---------------
+New Oerstad---> West Circuitta, 3  Route added
+East Circuitta---> Analograd, 2  Route added
+Machineland---> Waverium, 16  Route added
+Las Datas---> Analograd, 17  Route added
+Waverium---> West Circuitta, 3  Route added
+
+Flight 1905 is added
+Flight 608 is added
+Flight 212 is added
+Flight 308 is added
+Flight 1205 is added
+
+Routes:
+Probia---> Logicheim, 3
+Probia---> Gulf of Archi, 7
+Probia---> Las Datas, 20
+Machineland---> Waverium, 16
+Las Datas---> Analograd, 17
+East Circuitta---> Analograd, 2
+Logicheim---> Probia, 3
+Waverium---> West Circuitta, 3
+Signale---> Probia, 12
+Gulf of Archi---> Logicheim, 8
+New Oerstad---> West Circuitta, 3
+
+Flights: 
+EE0103 
+EE0107 
+EE0118 
+EE0212 
+EE0308 
+EE0608 
+EE0701 
+EE1205 
+EE1501 
+EE1807 
+EE1905 
+
+----------------Month 3---------------
+Flight EE0118 Cancelled
+(Probia---> Gulf of Archi) Route Discarded
+(Probia---> Las Datas, 20) is %%50 off
+Flight EE0701 Cancelled
+(Logicheim---> Probia) Route Discarded
+(Probia---> Las Datas, 10) is %%50 off
+Flight EE1205 Cancelled
+(Waverium---> West Circuitta) Route Discarded
+(Probia---> Las Datas, 5) is %%50 off
+Flight EE1501 Cancelled
+(Signale---> Probia) Route Discarded
+(Probia---> Las Datas, 2.5) is %%50 off
+Flight EE1807 Cancelled
+(Gulf of Archi---> Logicheim) Route Discarded
+(Probia---> Las Datas, 1.25) is %%50 off
+Flight EE1905 Cancelled
+(New Oerstad---> West Circuitta) Route Discarded
+(Probia---> Las Datas, 0.625) is %%50 off
+(East Circuitta---> Analograd, 2) is %%50 off
+
+Biomedberg---> Telecommunicastan, 8  Route added
+Neural's Deep---> North Kirchoff, 15  Route added
+San Antenna---> Waverium, 3  Route added
+Prokontrolkka---> Machineland, 5  Route added
+Waverium---> Prokontrolkka, 9  Route added
+
+Flight 1013 is added
+Flight 2016 is added
+Flight 412 is added
+Flight 1402 is added
+Flight 1214 is added
+
+Routes:
+Probia---> Logicheim, 3
+Probia---> Las Datas, 0.3125
+Machineland---> Waverium, 16
+Las Datas---> Analograd, 17
+San Antenna---> Waverium, 3
+East Circuitta---> Analograd, 1
+Biomedberg---> Telecommunicastan, 8
+Waverium---> Prokontrolkka, 9
+Prokontrolkka---> Machineland, 5
+Neural's Deep---> North Kirchoff, 15
+
+Flights: 
+EE0103 
+EE0107 
+EE0212 
+EE0308 
+EE0412 
+EE0608 
+EE1013 
+EE1214 
+EE1402 
+EE2016 
+
+----------------Month 4---------------
+Flight EE0212 Cancelled
+(Machineland---> Waverium) Route Discarded
+Flight EE0103 Cancelled
+(Probia---> Las Datas) Route Discarded
+Flight EE0608 Cancelled
+(East Circuitta---> Analograd) Route Discarded
+Flight EE1013 Cancelled
+(Biomedberg---> Telecommunicastan) Route Discarded
+Flight EE1214 Cancelled
+(Waverium---> Prokontrolkka) Route Discarded
+Flight EE1402 Cancelled
+(Prokontrolkka---> Machineland) Route Discarded
+Flight EE2016 Cancelled
+(Neural's Deep---> North Kirchoff) Route Discarded
+(San Antenna---> Waverium, 3) is %%50 off
+(San Antenna---> Waverium, 1.5) is %%50 off
+South Kirchoff---> North Kirchoff, 11  Route added
+Las Datas---> Island of Semicon, 7  Route added
+Probia---> Las Datas, 5  Route added
+Island of Semicon---> Logicheim, 6  Route added
+Magneta---> Biomedberg, 11  Route added
+
+Flight 1716 is added
+Flight 309 is added
+Flight 103 is added
+Flight 907 is added
+Flight 1110 is added
+
+Routes:
+Probia---> Logicheim, 3
+Probia---> Las Datas, 5
+Las Datas---> Analograd, 17
+Las Datas---> Island of Semicon, 7
+San Antenna---> Waverium, 0.75
+Island of Semicon---> Logicheim, 6
+Magneta---> Biomedberg, 11
+South Kirchoff---> North Kirchoff, 11
+
+Flights: 
+EE0103 
+EE0107 
+EE0308 
+EE0309 
+EE0412 
+EE0907 
+EE1110 
+EE1716 
+
+----------------Month 5---------------
+Flight EE0308 Cancelled
+(Las Datas---> Analograd) Route Discarded
+(Probia---> Logicheim, 3) is %%50 off
+Flight EE0412 Cancelled
+(San Antenna---> Waverium) Route Discarded
+(Probia---> Logicheim, 1.5) is %%50 off
+(South Kirchoff---> North Kirchoff, 11) is %%50 off
+(Magneta---> Biomedberg, 11) is %%50 off
+Signale---> South Kirchoff, 1  Route added
+Logicheim---> South Kirchoff, 12  Route added
+Island of Semicon---> West Circuitta, 20  Route added
+Logicheim---> San Antenna, 18  Route added
+New Oerstad---> Biomedberg, 3  Route added
+
+Flight 1517 is added
+Flight 717 is added
+Flight 905 is added
+Flight 704 is added
+Flight 1910 is added
+
+Routes:
+Probia---> Logicheim, 0.75
+Probia---> Las Datas, 5
+Las Datas---> Island of Semicon, 7
+Logicheim---> South Kirchoff, 12
+Logicheim---> San Antenna, 18
+Island of Semicon---> Logicheim, 6
+Island of Semicon---> West Circuitta, 20
+Magneta---> Biomedberg, 5.5
+Signale---> South Kirchoff, 1
+South Kirchoff---> North Kirchoff, 5.5
+New Oerstad---> Biomedberg, 3
+
+Flights: 
+EE0103 
+EE0107 
+EE0309 
+EE0704 
+EE0717 
+EE0905 
+EE0907 
+EE1110 
+EE1517 
+EE1716 
+EE1910 
+
+----------------Month 6---------------
+Flight EE0309 Cancelled
+(Las Datas---> Island of Semicon) Route Discarded
+(Probia---> Las Datas, 5) is %%50 off
+(Island of Semicon---> Logicheim, 6) is %%50 off
+(Island of Semicon---> West Circuitta, 20) is %%50 off
+(Signale---> South Kirchoff, 1) is %%50 off
+(New Oerstad---> Biomedberg, 3) is %%50 off
+Machineland---> East Circuitta, 5  Route added
+Telecommunicastan---> Magneta, 10  Route added
+Gulf of Archi---> Prokontrolkka, 18  Route added
+Telecommunicastan---> Logicheim, 11  Route added
+Machineland---> South Kirchoff, 16  Route added
+
+Flight 206 is added
+Flight 1311 is added
+Flight 1814 is added
+Flight 1307 is added
+Flight 217 is added
+
+Routes:
+Probia---> Logicheim, 0.75
+Probia---> Las Datas, 2.5
+Machineland---> East Circuitta, 5
+Machineland---> South Kirchoff, 16
+Logicheim---> South Kirchoff, 12
+Logicheim---> San Antenna, 18
+Island of Semicon---> Logicheim, 3
+Island of Semicon---> West Circuitta, 10
+Magneta---> Biomedberg, 5.5
+Telecommunicastan---> Magneta, 10
+Telecommunicastan---> Logicheim, 11
+Signale---> South Kirchoff, 0.5
+South Kirchoff---> North Kirchoff, 5.5
+Gulf of Archi---> Prokontrolkka, 18
+New Oerstad---> Biomedberg, 1.5
+
+Flights: 
+EE0103 
+EE0107 
+EE0206 
+EE0217 
+EE0704 
+EE0717 
+EE0905 
+EE0907 
+EE1110 
+EE1307 
+EE1311 
+EE1517 
+EE1716 
+EE1814 
+EE1910 
+
+Missing Flights and Routes
+(Logicheim---> Probia, 0.75) Return Route Added
+Flight EE0701 Added
+(Las Datas---> Probia, 2.5) Return Route Added
+Flight EE0301 Added
+(East Circuitta---> Machineland, 5) Return Route Added
+Flight EE0602 Added
+(South Kirchoff---> Machineland, 16) Return Route Added
+Flight EE1702 Added
+(South Kirchoff---> Logicheim, 12) Return Route Added
+Flight EE1707 Added
+(San Antenna---> Logicheim, 18) Return Route Added
+Flight EE0407 Added
+(Logicheim---> Island of Semicon, 3) Return Route Added
+Flight EE0709 Added
+(West Circuitta---> Island of Semicon, 10) Return Route Added
+Flight EE0509 Added
+(Biomedberg---> Magneta, 5.5) Return Route Added
+Flight EE1011 Added
+(Magneta---> Telecommunicastan, 10) Return Route Added
+Flight EE1113 Added
+(Logicheim---> Telecommunicastan, 11) Return Route Added
+Flight EE0713 Added
+(South Kirchoff---> Signale, 0.5) Return Route Added
+Flight EE1715 Added
+(North Kirchoff---> South Kirchoff, 5.5) Return Route Added
+Flight EE1617 Added
+(Prokontrolkka---> Gulf of Archi, 18) Return Route Added
+Flight EE1418 Added
+(Biomedberg---> New Oerstad, 1.5) Return Route Added
+Flight EE1019 Added
+
+One-way Trip Options for Probia--->North Kirchoff
+2-Stop Option: Probia ---> 0107 ---> Logicheim ---> 0717 ---> South Kirchoff ---> 1716 ---> North Kirchoff for 0.75 + 12 + 5
+
